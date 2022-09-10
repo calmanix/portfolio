@@ -2,8 +2,7 @@
     background-image: url("/background.jpg");
     background-size: cover;
     padding: auto;
-    height: 1080px;
-    width: 1920px;
+    size: cover;
 }
 
 h1{
