@@ -1,1 +1,1 @@
-<Script> alert('dette er en test');</Script>
+alert('dette er en test')
