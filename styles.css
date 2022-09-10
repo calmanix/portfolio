@@ -1,7 +1,6 @@
 .background {
     background-image: url("/background.jpg");
     position: relative;
-    text-align: center;
     size: 100%;
 }
 
