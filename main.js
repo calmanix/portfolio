@@ -1,1 +1,1 @@
-alert('dette er en test')
+alert('Denne siden er under utvikling')
