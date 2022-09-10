@@ -1,1 +1,1 @@
-alert('Denne siden er under utvikling')
+document.getElementById('top').scrollIntoView();
