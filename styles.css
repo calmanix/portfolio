@@ -1,8 +1,8 @@
 .background {
     background-image: url("/background.jpg");
-    padding: 100px;
-    margin: 100px;
-    background-size: cover;
+    padding: 10px;
+    margin: 10px;
+    background-size: auto;
 
 }
 
